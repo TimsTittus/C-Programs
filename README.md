@@ -3,6 +3,6 @@
 
 <ul>
     <li>find area of circle,rectangle,square using switch statement</li>
-    <li>Second item</li>
+    <li>To find the number is Odd or Even</li>
     <li>Third item</li>
 </ul>
