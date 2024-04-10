@@ -5,4 +5,5 @@
     <li>find area of circle,rectangle,square using switch statement</li>
     <li>To find the number is Odd or Even</li>
     <li>To reverse a number</li>
+    <li>To swap two numbers</li>
 </ul>
