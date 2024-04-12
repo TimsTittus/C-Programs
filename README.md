@@ -4,6 +4,7 @@
 <ul>
     <li>To find the number is Odd or Even</li>
     <li>find area of circle,rectangle,square using switch statement</li>
+    <li>print days of a week by accepting day number</li>
     <li>Print multiplication table</li>
     <li>To reverse a number</li>
     <li>To swap two numbers</li>
