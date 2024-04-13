@@ -7,5 +7,6 @@
     <li>print days of a week by accepting day number</li>
     <li>Print multiplication table</li>
     <li>To reverse a number</li>
+    <li>simple Calculator using switch Statement</li>
     <li>To swap two numbers</li>
 </ul>
