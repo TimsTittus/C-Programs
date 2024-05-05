@@ -8,7 +8,9 @@
     <li>Print multiplication table</li>
     <li>To reverse a number</li>
     <li>simple Calculator using switch Statement</li>
-    <li>To swap two numbers</li>
+    <li>string concatenation using strcat()</li>
+    <li>swap two numbers by call by refernce</li>
+    <li>swap two variables</li>
     <li>To find a number using linear search algorithm</li>
     <li>to find the size of datatypes</li>
 </ul>
