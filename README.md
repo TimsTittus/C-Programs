@@ -11,6 +11,7 @@
     <li>To add two numbers using pointers</li>
     <li>Find area of circle,rectangle,square using switch statement</li>
     <li>To find if you are eligible to vote or not</li>
+    <li>Convert Metre to Centimetre</li>
     <li>Find average marks obtained by a class of students</li>
     <li>Print days of a week by accepting day number</li>
     <li>Print multiplication table</li>
