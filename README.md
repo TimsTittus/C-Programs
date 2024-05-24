@@ -4,14 +4,17 @@
 
 <img align="center" alt="Coding" width="650" height="200" 
     src="https://imageconindia.com/courses/media/top-banner/course/c_banner.jpg">
-<h3>This repository contains of (17) large & small C programs.They are mentioned below:</h3>
+<h3>This repository contains of (22) large & small C programs.They are mentioned below:</h3>
 
 <ul>
     <li>To find the number is Odd or Even</li>
     <li>To add two numbers using pointers</li>
+    <li>To find area of circle</li>
     <li>Find area of circle,rectangle,square using switch statement</li>
     <li>To find if you are eligible to vote or not</li>
     <li>Convert Metre to Centimetre</li>
+    <li>To find factorial of a number</li>
+    <li>To find fibonacci series of a number</li>
     <li>Find average marks obtained by a class of students</li>
     <li>Print days of a week by accepting day number</li>
     <li>Print multiplication table</li>
