@@ -18,6 +18,7 @@
     <li>Find average marks obtained by a class of students</li>
     <li>To find Quotient of a number</li>
     <li>To find largest among three numbers</li>
+    <li>To multiply two numbers</li>
     <li>Print days of a week by accepting day number</li>
     <li>Print multiplication table</li>
     <li>To read & display an integer number</li>
