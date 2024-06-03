@@ -4,7 +4,7 @@
 
 <img align="center" alt="Coding" width="650" height="200" 
     src="https://imageconindia.com/courses/media/top-banner/course/c_banner.jpg">
-<h3>This repository contains of (25) large & small C programs.They are mentioned below:</h3>
+<h3>This repository contains of (26) large & small C programs.They are mentioned below:</h3>
 
 <ul>
     <li>To find the number is Odd or Even</li>
