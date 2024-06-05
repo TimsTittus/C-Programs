@@ -4,7 +4,7 @@
 
 <img align="center" alt="Coding" width="650" height="200" 
     src="https://imageconindia.com/courses/media/top-banner/course/c_banner.jpg">
-<h3>This repository contains of (26) large & small C programs.They are mentioned below:</h3>
+<h3>This repository contains of (28) large & small C programs.They are mentioned below:</h3>
 
 <ul>
     <li>To find the number is Odd or Even</li>
@@ -25,6 +25,8 @@
     <li>To reverse a number</li>
     <li>Simple Calculator using switch Statement</li>
     <li>String concatenation using strcat()</li>
+    <li>Substract two numbers</li>
+    <li>Sum of two numbers</li>
     <li>Swap two numbers by call by refernce</li>
     <li>Swap two variables</li>
     <li>Check whether the given number is prime</li>
