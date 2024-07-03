@@ -4,14 +4,17 @@
 
 <img align="center" alt="Coding" width="650" height="200" 
     src="https://imageconindia.com/courses/media/top-banner/course/c_banner.jpg">
-<h3>This repository contains of (28) large & small C programs.They are mentioned below:</h3>
+<h3>This repository contains of (34) large & small C programs.They are mentioned below:</h3>
 
 <ul>
+    <li>Largest of three numbers using conditional operator (ternary operator)</li>
     <li>To find the number is Odd or Even</li>
     <li>To add two numbers using pointers</li>
     <li>To find area of circle</li>
     <li>Find area of circle,rectangle,square using switch statement</li>
     <li>To find if you are eligible to vote or not</li>
+    <li>To check whether a number is odd/even using goto statement</li>
+    <li>To check whether you are eligible to vote</li>
     <li>Convert Metre to Centimetre</li>
     <li>To find factorial of a number</li>
     <li>To find fibonacci series of a number</li>
@@ -19,9 +22,11 @@
     <li>To find Quotient of a number</li>
     <li>To find largest among three numbers</li>
     <li>To multiply two numbers</li>
+    <li>To check whether a number is perfect num or not</li>
     <li>Print days of a week by accepting day number</li>
     <li>Print multiplication table</li>
     <li>To read & display an integer number</li>
+    <li>To read & display an floating point number</li>
     <li>To reverse a number</li>
     <li>Simple Calculator using switch Statement</li>
     <li>String concatenation using strcat()</li>
@@ -29,6 +34,7 @@
     <li>Sum of two numbers</li>
     <li>Swap two numbers by call by refernce</li>
     <li>Swap two variables</li>
+    <li>Check whether the given number is armstrong or not</li>
     <li>Check whether the given number is prime</li>
     <li>To copy a string to another string</li>
     <li>To count the number of characters present in a string</li>
