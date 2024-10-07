@@ -1,10 +1,19 @@
-<h1 align="center">Repository on C-Programs</h1>
-<h3>I will be adding here the C programming codes that i am doing for a while through out my second semester.
-    This repository is created under the circumstance of the subject i've been pursuing.<h3>
+# C Programming
+
+<h3>Welcome to the C Programs Repository! </h3>
+<h4>This repository contains a collection of C programs that I come accross as I cover various topics and concepts in C programming.I will be adding here the java programming codes that i am doing for a while through out my second semester.</h4>
+Ensure you have C programming supported software installed on your system,or you can use any online c compiler. 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Programs](#programs)
+- [Contact](#contact)
+
+## Introduction
 
 <img align="center" alt="Coding" width="650" height="200" 
     src="https://imageconindia.com/courses/media/top-banner/course/c_banner.jpg">
-<h3>This repository contains of (34) large & small C programs.They are mentioned below:</h3>
 
 <ul>
     <li>Largest of three numbers using conditional operator (Ternary operator)</li>
