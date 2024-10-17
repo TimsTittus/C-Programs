@@ -15,6 +15,13 @@ Ensure you have C programming supported software installed on your system,or you
 <img align="center" alt="Coding" width="650" height="200" 
     src="https://imageconindia.com/courses/media/top-banner/course/c_banner.jpg">
 
+<h4>This repository aims to provide a comprehensive set of C programs that can be used for learning and reference purposes. This is my journey as a beginner in C programming, you'll find useful examples and code snippets to enhance your understanding of C.</h4>
+
+## Programs
+
+1. [Sum of two numbers](sumoftwonumbers.c)
+
+
 <ul>
     <li>Largest of three numbers using conditional operator (Ternary operator)</li>
     <li>To find the number is ODD or EVEN</li>
@@ -39,7 +46,6 @@ Ensure you have C programming supported software installed on your system,or you
     <li>Simple calculator using SWITCH statement</li>
     <li>String concatenation using Strcat ()</li>
     <li>Substract two numbers</li>
-    <li>Sum of two numbers</li>
     <li>Swap two numbers by CALL BY REFERENCE</li>
     <li>Swap two variables</li>
     <li>Check whether the given number is ARMSTRONG or not</li>
@@ -51,4 +57,7 @@ Ensure you have C programming supported software installed on your system,or you
     <li>To swap two variables using pointers</li>
 </ul>
 
-<h3>Thank you</h3>
+## Contact
+
+- Email - timstittus1@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/tims-tittus/)
