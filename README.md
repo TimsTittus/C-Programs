@@ -21,32 +21,32 @@ Ensure you have C programming supported software installed on your system,or you
 
 1.  [Sum of two numbers](sumoftwonumbers.c)
 2.  [Largest of three numbers using conditional operator/ternary operator](Largestofthreenumbersusingconditionaloperator(ternaryoperator).c)
-3.  [To find the number is ODD or EVEN](TofindOddorEven.c)
-4.  [To check whether a number is ODD/EVEN using GOTO statement](CheckWhetherANumberIsOddOrEvenUsingGOTOKeyword.c)
-5.  [To find LARGEST among three numbers](largestAmongThreeNumbers.c)
-6.  [Check whether the given number is ARMSTRONG or not](armstrongOrNot.c)
-7.  [Check whether the given number is PRIME](numberPrimeOrNot.c)
-8.  [To multiply two numbers](multiplyTwoNumbers.c)
-9.  [To find Area of circle](areaofcircle.c)
-10. [Find area of circle,rectangle,square using switch statement](areaofcircle,rectangle,triangle.c)
-11. [To check whether you are ELIGIBLE TO VOTE](CheckWhetherYouAreEligibleToVote.c)
-12. [Convert METRE to CENTIMETRE](ConvertMetreToCentimetre.c)
-13. [To find FACTORIAL of a number](factorial.c)
-14. [To find FIBONACCI SERIES of a number](fibonacciSeries.c)
-15. [Find average marks obtained by a class of students](findAverageMarksObtainedByAClass.c)
-16. [To find Quotient of a number](findTheQuotient.c)
-17. [To check whether a number is PERFECT NUMBER or not](perfectNumberOrNot.c)
-18. [Simple calculator using SWITCH statement](simpleCalculatorusingswitchStatement.c)
-19. [To find a number using LINEAR SEARCH algorithm](linearSearch.c)
-20. [To add two numbers using pointers](addtwonumbersusingpointers.c)
+3.  [To read & display an integer number]()
+4.  [To read & display an floating point number]()
+5.  [To find the number is ODD or EVEN](TofindOddorEven.c)
+6.  [To check whether a number is ODD/EVEN using GOTO statement](CheckWhetherANumberIsOddOrEvenUsingGOTOKeyword.c)
+7.  [To find LARGEST among three numbers](largestAmongThreeNumbers.c)
+8.  [Check whether the given number is ARMSTRONG or not](armstrongOrNot.c)
+9.  [Check whether the given number is PRIME](numberPrimeOrNot.c)
+10. [To reverse a number]()
+11. [To multiply two numbers](multiplyTwoNumbers.c)
+12. [To find Area of circle](areaofcircle.c)
+13. [Find area of circle,rectangle,square using switch statement](areaofcircle,rectangle,triangle.c)
+14. [To check whether you are ELIGIBLE TO VOTE](CheckWhetherYouAreEligibleToVote.c)
+15. [Convert METRE to CENTIMETRE](ConvertMetreToCentimetre.c)
+16. [To find FACTORIAL of a number](factorial.c)
+17. [To find FIBONACCI SERIES of a number](fibonacciSeries.c)
+18. [Print MULTIPLICATION TABLE]()
+19. [Find average marks obtained by a class of students](findAverageMarksObtainedByAClass.c)
+20. [To find Quotient of a number](findTheQuotient.c)
+21. [To check whether a number is PERFECT NUMBER or not](perfectNumberOrNot.c)
+22. [Simple calculator using SWITCH statement](simpleCalculatorusingswitchStatement.c)
+23. [Print days of a week by accepting day number]()
+24. [String concatenation using Strcat ()]()
+25. [To find a number using LINEAR SEARCH algorithm](linearSearch.c)
+26. [To add two numbers using pointers](addtwonumbersusingpointers.c)
 
 <ul>
-    <li>Print days of a week by accepting day number</li>
-    <li>Print MULTIPLICATION TABLE</li>
-    <li>To read & display an integer number</li>
-    <li>To read & display an floating point number</li>
-    <li>To reverse a number</li>
-    <li>String concatenation using Strcat ()</li>
     <li>Substract two numbers</li>
     <li>Swap two numbers by CALL BY REFERENCE</li>
     <li>Swap two variables</li>
