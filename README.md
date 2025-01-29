@@ -20,41 +20,38 @@ Ensure you have C programming supported software installed on your system,or you
 ## Programs
 
 1.  [Sum of two numbers](sumoftwonumbers.c)
-2.  [Largest of three numbers using conditional operator/ternary operator](Largestofthreenumbersusingconditionaloperator(ternaryoperator).c)
-3.  [To read & display an integer number]()
-4.  [To read & display an floating point number]()
-5.  [To find the number is ODD or EVEN](TofindOddorEven.c)
-6.  [To check whether a number is ODD/EVEN using GOTO statement](CheckWhetherANumberIsOddOrEvenUsingGOTOKeyword.c)
-7.  [To find LARGEST among three numbers](largestAmongThreeNumbers.c)
-8.  [Check whether the given number is ARMSTRONG or not](armstrongOrNot.c)
-9.  [Check whether the given number is PRIME](numberPrimeOrNot.c)
-10. [To reverse a number]()
-11. [To multiply two numbers](multiplyTwoNumbers.c)
-12. [To find Area of circle](areaofcircle.c)
-13. [Find area of circle,rectangle,square using switch statement](areaofcircle,rectangle,triangle.c)
-14. [To check whether you are ELIGIBLE TO VOTE](CheckWhetherYouAreEligibleToVote.c)
-15. [Convert METRE to CENTIMETRE](ConvertMetreToCentimetre.c)
-16. [To find FACTORIAL of a number](factorial.c)
-17. [To find FIBONACCI SERIES of a number](fibonacciSeries.c)
-18. [Print MULTIPLICATION TABLE]()
-19. [Find average marks obtained by a class of students](findAverageMarksObtainedByAClass.c)
-20. [To find Quotient of a number](findTheQuotient.c)
-21. [To check whether a number is PERFECT NUMBER or not](perfectNumberOrNot.c)
-22. [Simple calculator using SWITCH statement](simpleCalculatorusingswitchStatement.c)
-23. [Print days of a week by accepting day number]()
-24. [String concatenation using Strcat ()]()
-25. [To find a number using LINEAR SEARCH algorithm](linearSearch.c)
-26. [To add two numbers using pointers](addtwonumbersusingpointers.c)
-
-<ul>
-    <li>Substract two numbers</li>
-    <li>Swap two numbers by CALL BY REFERENCE</li>
-    <li>Swap two variables</li>
-    <li>To copy a string to another string</li>
-    <li>To count the number of characters present in a string</li>
-    <li>To find the size of datatypes</li>
-    <li>To swap two variables using pointers</li>
-</ul>
+2.  [Substract two numbers]()
+3.  [Largest of three numbers using conditional operator/ternary operator](Largestofthreenumbersusingconditionaloperator(ternaryoperator).c)
+4.  [To read & display an integer number]()
+5.  [To read & display an floating point number]()
+6.  [To find the number is ODD or EVEN](TofindOddorEven.c)
+7.  [To check whether a number is ODD/EVEN using GOTO statement](CheckWhetherANumberIsOddOrEvenUsingGOTOKeyword.c)
+8.  [To find LARGEST among three numbers](largestAmongThreeNumbers.c)
+9.  [Check whether the given number is ARMSTRONG or not](armstrongOrNot.c)
+10. [Check whether the given number is PRIME](numberPrimeOrNot.c)
+11. [To reverse a number]()
+12. [To count the number of characters present in a string]()
+13. [To multiply two numbers](multiplyTwoNumbers.c)
+14. [To find Area of circle](areaofcircle.c)
+15. [Find area of circle,rectangle,square using switch statement](areaofcircle,rectangle,triangle.c)
+16. [To check whether you are ELIGIBLE TO VOTE](CheckWhetherYouAreEligibleToVote.c)
+17. [Convert METRE to CENTIMETRE](ConvertMetreToCentimetre.c)
+18. [To find FACTORIAL of a number](factorial.c)
+19. [To find FIBONACCI SERIES of a number](fibonacciSeries.c)
+20. [Print MULTIPLICATION TABLE]()
+21. [Find average marks obtained by a class of students](findAverageMarksObtainedByAClass.c)
+22. [To find Quotient of a number](findTheQuotient.c)
+23. [To check whether a number is PERFECT NUMBER or not](perfectNumberOrNot.c)
+24. [To copy a string to another string]()
+25. [Simple calculator using SWITCH statement](simpleCalculatorusingswitchStatement.c)
+26. [Print days of a week by accepting day number]()
+27. [Swap two variables]()
+28. [To find the size of datatypes]()
+29. [String concatenation using Strcat ()]()
+30. [To find a number using LINEAR SEARCH algorithm](linearSearch.c)
+31. [Swap two numbers by CALL BY REFERENCE]()
+32. [To add two numbers using pointers](addtwonumbersusingpointers.c)
+33. [To swap two variables using pointers]()
 
 ## Contact
 
